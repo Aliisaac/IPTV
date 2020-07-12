@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="osnyahala.ae" tvg-name="OSN - YAHALA HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNYAHALAHD.png" group-title="AR | OSN",OSN - YAHALA HD
+#EXTINF:-1 tvg-id="osnyahala.ae" tvg-name="OSN - YAHALA HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNYAHALAHD.png" group-title="TAR | OSN",OSN - YAHALA HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/48896
-#EXTINF:-1 tvg-id="osnyahalaaloula.ae" tvg-name="OSN - YAHALA OULA HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNYAHALAOULAHD.png" group-title="AR | OSN",OSN - YAHALA OULA HD
+#EXTINF:-1 tvg-id="osnyahalaaloula.ae" tvg-name="OSN - YAHALA OULA HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNYAHALAOULAHD.png" group-title="TAR | OSN",OSN - YAHALA OULA HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/48895
-#EXTINF:-1 tvg-id="osnyahalacinima.ae" tvg-name="OSN - YAHALA CINEMA HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNYAHALACINEMAHD.png" group-title="AR | OSN",OSN - YAHALA CINEMA HD
+#EXTINF:-1 tvg-id="osnyahalacinima.ae" tvg-name="OSN - YAHALA CINEMA HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNYAHALACINEMAHD.png" group-title="TAR | OSN",OSN - YAHALA CINEMA HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/48897
-#EXTINF:-1 tvg-id="serieschannel.sa" tvg-name="OSN - ALFA MUSALSALAT HD" tvg-logo="http://212.8.253.112/logo/OSN/ALFASERIESHD.png" group-title="AR | OSN",OSN - ALFA MUSALSALAT HD
+#EXTINF:-1 tvg-id="serieschannel.sa" tvg-name="OSN - ALFA MUSALSALAT HD" tvg-logo="http://212.8.253.112/logo/OSN/ALFASERIESHD.png" group-title="JAR | OSN",OSN - ALFA MUSALSALAT HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/48925
-#EXTINF:-1 tvg-id="alyawm.sa" tvg-name="OSN - ALFA ALYOUM HD" tvg-logo="http://212.8.253.112/logo/OSN/ALFAALYOUMHD.png" group-title="AR | OSN",OSN - ALFA ALYOUM HD
+#EXTINF:-1 tvg-id="alyawm.sa" tvg-name="OSN - ALFA ALYOUM HD" tvg-logo="http://212.8.253.112/logo/OSN/ALFAALYOUMHD.png" group-title="JAR | OSN",OSN - ALFA ALYOUM HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/48928
-#EXTINF:-1 tvg-id="alsafwa.sa" tvg-name="OSN - ALFA ALSAFWA HD" tvg-logo="http://212.8.253.112/logo/OSN/ALFAALSAFWAHD.png" group-title="AR | OSN",OSN - ALFA ALSAFWA HD
+#EXTINF:-1 tvg-id="alsafwa.sa" tvg-name="OSN - ALFA ALSAFWA HD" tvg-logo="http://212.8.253.112/logo/OSN/ALFAALSAFWAHD.png" group-title="JAR | OSN",OSN - ALFA ALSAFWA HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/42979
-#EXTINF:-1 tvg-id="hekayat.sa" tvg-name="OSN - ART HEKAYAT" tvg-logo="http://212.8.253.112/logo/OSN/ARTHEKAYAT.png" group-title="AR | OSN",OSN - ART HEKAYAT
+#EXTINF:-1 tvg-id="hekayat.sa" tvg-name="OSN - ART HEKAYAT" tvg-logo="http://212.8.253.112/logo/OSN/ARTHEKAYAT.png" group-title="BAR | OSN",OSN - ART HEKAYAT
 http://ottbest.net:80/aliisca01/A33DA412280888F/48931
-#EXTINF:-1 tvg-id="hekayat2.sa" tvg-name="OSN - ART HEKAYAT 2" tvg-logo="http://212.8.253.112/logo/OSN/ARTHEKAYAT.png" group-title="AR | OSN",OSN - ART HEKAYAT 2
+#EXTINF:-1 tvg-id="hekayat2.sa" tvg-name="OSN - ART HEKAYAT 2" tvg-logo="http://212.8.253.112/logo/OSN/ARTHEKAYAT.png" group-title="BAR | OSN",OSN - ART HEKAYAT 2
 http://ottbest.net:80/aliisca01/A33DA412280888F/48930
 #EXTINF:-1 tvg-id="" tvg-name="OSN - FANN HD" tvg-logo="http://212.8.253.112/logo/OSN/FANNHD.png" group-title="AR | OSN",OSN - FANN HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/42977
@@ -25,15 +25,15 @@ http://ottbest.net:80/aliisca01/A33DA412280888F/48906
 http://ottbest.net:80/aliisca01/A33DA412280888F/79162
 #EXTINF:-1 tvg-id="osnenigma.ae" tvg-name="OSN - ENIGMA HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNENIGMAHD.png" group-title="AR | OSN",OSN - ENIGMA HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/48918
-#EXTINF:-1 tvg-id="osnmovies.ae" tvg-name="OSN - MOVIES HD" tvg-logo="http://212.8.253.112/logo/OSN/OSN-Movies.png" group-title="AR | OSN",OSN - MOVIES HD
+#EXTINF:-1 tvg-id="osnmovies.ae" tvg-name="$$$$$OSN - MOVIES HD" tvg-logo="http://212.8.253.112/logo/OSN/OSN-Movies.png" group-title="BAR | OSN",OSN - MOVIES HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/48911
 #EXTINF:-1 tvg-id="osnmoviesfirsthd.ae" tvg-name="OSN - MOVIES FIRST HD" tvg-logo="http://212.8.253.112/logo/OSN/OSN-Movies-First.png" group-title="AR | OSN",OSN - MOVIES FIRST HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/48912
-#EXTINF:-1 tvg-id="osncomedy.ae" tvg-name="OSN - MOVIES COMEDY HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNSERIESCOMEDYHD.png" group-title="AR | OSN",OSN - MOVIES COMEDY HD
+#EXTINF:-1 tvg-id="osncomedy.ae" tvg-name="OSN - MOVIES COMEDY HD" tvg-logo="http://212.8.253.112/logo/OSN/OSNSERIESCOMEDYHD.png" group-title="CAR | OSN",OSN - MOVIES COMEDY HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/100170
 #EXTINF:-1 tvg-id="osnmoviesdisney.ae" tvg-name="OSN - MOVIES DISNEY HD" tvg-logo="http://212.8.253.112/logo/OSN/OSN-Movies-Disney.png" group-title="AR | OSN",OSN - MOVIES DISNEY HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/48913
-#EXTINF:-1 tvg-id="" tvg-name="OSN - COMEDY CENTRAL" tvg-logo="http://212.8.253.112/logo/OSN/Comedy-CentraL.png" group-title="AR | OSN",OSN - COMEDY CENTRAL
+#EXTINF:-1 tvg-id="" tvg-name="OSN - COMEDY CENTRAL" tvg-logo="http://212.8.253.112/logo/OSN/Comedy-CentraL.png" group-title="CAR | OSN",OSN - COMEDY CENTRAL
 http://ottbest.net:80/aliisca01/A33DA412280888F/100171
 #EXTINF:-1 tvg-id="" tvg-name="OSN - Meezze HD" tvg-logo="http://212.8.253.112/logo/OSN/OME-Mezze.png" group-title="AR | OSN",OSN - Meezze HD
 http://ottbest.net:80/aliisca01/A33DA412280888F/94410
