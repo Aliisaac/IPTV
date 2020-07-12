@@ -1,17 +1,29 @@
-group,AR | JORDAN
-ext,JO - AL MAMLAKA,http://ottbest.net:80/aliisca01/A33DA412280888F/73072
-ext,JO - JORDAN SAMA,http://ottbest.net:80/aliisca01/A33DA412280888F/718
-ext,JO - JORDAN SPORT,http://ottbest.net:80/aliisca01/A33DA412280888F/719
-ext,JO - ROYA HD,http://ottbest.net:80/aliisca01/A33DA412280888F/726
-ext,JO - KARAMEESH,http://ottbest.net:80/aliisca01/A33DA412280888F/725
-ext,JO - NOURSAT AL CHABAB,http://ottbest.net:80/aliisca01/A33DA412280888F/723
-ext,JO - NOOR JORDAN,http://ottbest.net:80/aliisca01/A33DA412280888F/712
-ext,JO - MUSAWA TV,http://ottbest.net:80/aliisca01/A33DA412280888F/710
-ext,JO - JORDAN AMEN,http://ottbest.net:80/aliisca01/A33DA412280888F/714
-ext,JO - JORDAN DERETNA,http://ottbest.net:80/aliisca01/A33DA412280888F/708
-
-group,Jordan 2
-ext,JO - AMMAN TV,http://ottbest.net:80/aliisca01/A33DA412280888F/55934
-ext,JO - JORDAN HD,http://ottbest.net:80/aliisca01/A33DA412280888F/727
-ext,JO - JORDAN TV,http://ottbest.net:80/aliisca01/A33DA412280888F/720
-ext,JO - JORDAN NOW,http://ottbest.net:80/aliisca01/A33DA412280888F/717
+#EXTM3U
+#EXTINF:-1 group-title="AR | JORDAN" tvg-name="JO - AL MAMLAKA" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/JORDAN/ALMAMLAKA.png" ,JO - AL MAMLAKA
+http://ottbest.net:80/aliisca01/A33DA412280888F/73072
+#EXTINF:-1 group-title="Jordan 2" tvg-name="JO - AMMAN TV" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/JORDANAMMAN.png" ,JO - AMMAN TV
+http://ottbest.net:80/aliisca01/A33DA412280888F/55934
+#EXTINF:-1 group-title="Jordan 2" tvg-name="JO - JORDAN HD" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/JORDANHD.png" ,JO - JORDAN HD
+http://ottbest.net:80/aliisca01/A33DA412280888F/727
+#EXTINF:-1 group-title="Jordan 2" tvg-name="JO - JORDAN TV" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/JORDANTV.png" ,JO - JORDAN TV
+http://ottbest.net:80/aliisca01/A33DA412280888F/720
+#EXTINF:-1 group-title="Jordan 2" tvg-name="JO - JORDAN NOW" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/JORDANNOW.png" ,JO - JORDAN NOW
+http://ottbest.net:80/aliisca01/A33DA412280888F/717
+#EXTINF:-1 group-title="AR | JORDAN" tvg-name="JO - JORDAN SAMA" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/JORDANSAMA.png" ,JO - JORDAN SAMA
+http://ottbest.net:80/aliisca01/A33DA412280888F/718
+#EXTINF:-1 group-title="AR | JORDAN" tvg-name="JO - JORDAN SPORT" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/JORDANSPORT.png" ,JO - JORDAN SPORT
+http://ottbest.net:80/aliisca01/A33DA412280888F/719
+#EXTINF:-1 group-title="AR | JORDAN" tvg-name="JO - ROYA HD" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/ROYAHD.png" ,JO - ROYA HD
+http://ottbest.net:80/aliisca01/A33DA412280888F/726
+#EXTINF:-1 group-title="AR | JORDAN" tvg-name="JO - KARAMEESH" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/ALKARAMA.png" ,JO - KARAMEESH
+http://ottbest.net:80/aliisca01/A33DA412280888F/725
+#EXTINF:-1 group-title="AR | JORDAN" tvg-name="JO - NOURSAT AL CHABAB" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/NOURSATALCHABAB.png" ,JO - NOURSAT AL CHABAB
+http://ottbest.net:80/aliisca01/A33DA412280888F/723
+#EXTINF:-1 group-title="AR | JORDAN" tvg-name="JO - NOOR JORDAN" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/NOORJORDAN.png" ,JO - NOOR JORDAN
+http://ottbest.net:80/aliisca01/A33DA412280888F/712
+#EXTINF:-1 group-title="AR | JORDAN" tvg-name="JO - MUSAWA TV" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/MUSAWATV.png" ,JO - MUSAWA TV
+http://ottbest.net:80/aliisca01/A33DA412280888F/710
+#EXTINF:-1 group-title="AR | JORDAN" tvg-name="JO - JORDAN AMEN" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/JORDANAMEN.png" ,JO - JORDAN AMEN
+http://ottbest.net:80/aliisca01/A33DA412280888F/714
+#EXTINF:-1 group-title="AR | JORDAN" tvg-name="JO - JORDAN DERETNA" tvg-logo="http://212.8.253.112/logo/ASIA/JORDAN/JORDANHD.png" ,JO - JORDAN DERETNA
+http://ottbest.net:80/aliisca01/A33DA412280888F/708
